@@ -1,0 +1,12 @@
+{
+  "name": "express-middleware-task1",
+  "version": "1.0.0",
+  "description": "Task 1: Custom Express middleware and routing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
